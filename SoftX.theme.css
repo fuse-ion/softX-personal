@@ -19,7 +19,7 @@
 :root {
 	/* SoftX variables */
 	--background-image: url('https://images2.imgbox.com/06/78/ZitZUGNZ_o.jpg'); /* Background image | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
-	--background-blur: 5px; /* Blur intensity of --background-image | Must end in px | Default: 0px */
+	--background-blur: 0px; /* Blur intensity of --background-image | Must end in px | Default: 0px */
 
 	--accent: 16, 145, 128; /* Colour used around the app. | Values are in R,G,B format. | Default: 0, 231, 169 */
 
